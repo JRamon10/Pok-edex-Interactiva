@@ -1,4 +1,4 @@
-# 🧩 Pokédex Interactiva
+#  Pokédex Interactiva
 
 **Asignatura:** Tecnología de Componentes  
 **Fecha de entrega:** 25 de Octubre de 2025  
@@ -14,18 +14,18 @@ La aplicación permite **buscar Pokémon por nombre o ID**, consultar su **infor
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
-- ⚛️ **React 18:** Framework para la creación de interfaces dinámicas.  
-- 🧠 **Hooks:** (`useState`, `useEffect`) para manejo del estado y efectos secundarios.  
-- 🌐 **Axios:** Peticiones HTTP asíncronas a la API REST.  
-- ⚡ **Vite:** Entorno de desarrollo rápido y moderno.  
-- 🎨 **CSS Modular:** Estilos personalizados y responsive.  
-- 🐳 **Docker:** Contenerización del proyecto con Nginx.  
+-  **React 18:** Framework para la creación de interfaces dinámicas.  
+-  **Hooks:** (`useState`, `useEffect`) para manejo del estado y efectos secundarios.  
+- **Axios:** Peticiones HTTP asíncronas a la API REST.  
+-  **Vite:** Entorno de desarrollo rápido y moderno.  
+-  **CSS Modular:** Estilos personalizados y responsive.  
+-  **Docker:** Contenerización del proyecto con Nginx.  
 
 ---
 
-## 🎯 Objetivo General
+##  Objetivo General
 
 Construir una **Single Page Application (SPA)** que cumpla con los siguientes puntos:
 

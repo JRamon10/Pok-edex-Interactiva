@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto tiene como objetivo **consolidar los conocimientos en React** mediante la construcción de una **aplicación web dinámica y modular tipo Pokédex**, conectada a la API gratuita [PokeAPI](https://pokeapi.co/).
 
